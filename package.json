@@ -1,0 +1,23 @@
+{
+  "name": "node_basics_lab1_hampusandersson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "hamps": "nodemon index.js"
+  },
+  "keywords": [
+    "HKR",
+    "Lab"
+  ],
+  "author": "Hampus Andersson",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "fahrenheit-to-celsius": "^1.0.0"
+  }
+}
